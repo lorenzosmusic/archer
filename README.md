@@ -1,4 +1,4 @@
 archer
 ======
 
-Web theme home
+Web theme home for Jekyll site.
