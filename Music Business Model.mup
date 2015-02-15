@@ -1,0 +1,157 @@
+{
+  "title": "Music Business Model",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Lorenzo",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "landing pages",
+          "id": 5,
+          "ideas": {}
+        },
+        "2": {
+          "title": "identity/personal content",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "photos",
+              "id": 8
+            },
+            "2": {
+              "title": "music influences",
+              "id": 9
+            },
+            "3": {
+              "title": "books",
+              "id": 10
+            },
+            "4": {
+              "title": "art",
+              "id": 11
+            }
+          }
+        },
+        "3": {
+          "title": "Videos",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "utilize youtube more",
+              "id": 13
+            },
+            "2": {
+              "title": "record live videos",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "simple setting",
+                  "id": 15
+                },
+                "2": {
+                  "title": "old songs, new ways",
+                  "id": 16
+                },
+                "3": {
+                  "title": "new song ideas",
+                  "id": 17
+                }
+              }
+            },
+            "3": {
+              "title": "Get a dedicated cameraman",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": "less work",
+                  "id": 35
+                },
+                "2": {
+                  "title": "don't have to double duty",
+                  "id": 36
+                },
+                "3": {
+                  "title": "can pick up working shots",
+                  "id": 37
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "live internet shows",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "link to the songs while playing",
+              "id": 19
+            },
+            "2": {
+              "title": "leave video posted just a few days after",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "for other time zones",
+                  "id": 21
+                },
+                "2": {
+                  "title": "tell them it's going down",
+                  "id": 22
+                },
+                "3": {
+                  "title": "adds urgency",
+                  "id": 23
+                },
+                "4": {
+                  "title": "when it's gone, make it a sign up page",
+                  "id": 24
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "cross posting",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "post about other bands",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "bands we know",
+                  "id": 27
+                },
+                "2": {
+                  "title": "bands we don't know",
+                  "id": 28
+                }
+              }
+            },
+            "2": {
+              "title": "record a video of a bands song",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "they promote it too",
+                  "id": 31
+                },
+                "2": {
+                  "title": "build collaboration",
+                  "id": 32
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Music Publishing",
+          "id": 33
+        }
+      }
+    }
+  },
+  "links": []
+}
